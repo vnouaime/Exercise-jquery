@@ -1,0 +1,26 @@
+h1, #user-input {
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+}
+
+#all-entries {
+    display: flex;
+    justify-content: center;
+    border-left: solid 5px black;
+    border-right: solid 5px black;
+}
+
+th {
+    width: 1000px;
+    /* border-left: solid 3px black; */
+    border-right: solid 5px black;
+    border-bottom: solid 5px black;
+}
+
+td {
+    margin: 0 auto;
+    /* border-left: solid 3px black; */
+    border-right: solid 5px black;
+}
+
